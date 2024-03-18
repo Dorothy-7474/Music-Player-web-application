@@ -42,7 +42,7 @@ const music_list = [
     {
         img : 'image/img4.jpeg',
         name : 'Bella Ciao',
-        artist : 'Clean Bandit',
+        artist : 'Manu Pilas',
         music : 'music/Bella Ciao_64(PagalWorld.com.cm).mp3'
 
     }
